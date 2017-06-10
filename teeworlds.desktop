@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Teeworlds
+GenericName=Arcade Game
+Comment=Fast-paced multiplayer 2D shooter game
+Exec=/usr/bin/teeworlds
+Icon=teeworlds
+StartupNotify=true
+Terminal=False
+Type=Application
+Categories=Game;
